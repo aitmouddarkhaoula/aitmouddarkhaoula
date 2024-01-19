@@ -14,6 +14,13 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaoula942&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaoula942&show_icons=true&count_private=true&hide=contribs&hide_title=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula942&layout=compact)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khaoula942&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khaoula942&column=7&margin-w=10)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khaoula942)
+
+
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
