@@ -24,5 +24,5 @@
 <a href="mailto:aitmouddarkhaoula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="khaoula"  /></a>
 </p>
 
-<h2 align="center">Happy Coding! 🚀 </h2>
+
 
