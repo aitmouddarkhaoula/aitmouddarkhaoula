@@ -3,7 +3,7 @@
 
 <h1 align="center"> 👋 Hello, World! I'm Khaoula Ait Mouddar </h1>
 
-<h2 align="center"> Passionate game developer, coding enthusiast, and perpetual learner 🤓. Welcome to my GitHub profile, where lines of code come to life! </h2>
+<!--<h2 align="center"> Passionate game developer, coding enthusiast, and perpetual learner 🤓. Welcome to my GitHub profile, where lines of code come to life! </h2>-->
 
 ## 🚀 About Me
 - 💻 Game developer with expertise in Unity engine.
