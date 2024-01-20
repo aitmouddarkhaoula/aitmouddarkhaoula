@@ -12,11 +12,9 @@
 - 📚 Currently delving into XR (Extended Reality) technologies.
 
 ## 📈 GitHub Stats
-<p align="center">
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaoula942&show_icons=true&count_private=truetheme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula942&layout=compacttheme=dark)
-</p>
-
 
 
 ## 🤝 Let's Connect
@@ -26,9 +24,8 @@
 <a href="mailto:aitmouddarkhaoula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="khaoula"  /></a>
 </p>
 
-🌟 Thank You for Visiting!
 
- Happy Coding! 🚀
+## Happy Coding! 🚀
 
 
 <!--[<h1 align="center">Hi 👋, I'm Rahul</h1>
