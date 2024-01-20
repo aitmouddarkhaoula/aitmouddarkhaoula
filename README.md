@@ -27,10 +27,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://hnida.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/itch.io-%23000000.svg?&logo=itch.io" alt="khaooula"  /></a>
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaoula" /></a>
-<a href="aitmouddarkhaoula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="khaoula"  /></a>
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aitmouddarkhaoula@gmail.com)
-[📧 Contact Me](mailto:aitmouddarkhaoula@gmail.com)
+<a href="https://www.linkedin.com/in/khaoula-ait-mouddar-a1b56a213/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="khaoula" /></a>
+<a href="mailto:aitmouddarkhaoula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="khaoula"  /></a>
 
 ##🌟 Thank You for Visiting!
 
