@@ -1,15 +1,15 @@
 
 ![](./AitMouddarKhaoula.png)
 
-[<h1 align="center"> 👋 Hello, World! I'm Khaoula Ait Mouddar </h1>
+<h1 align="center"> 👋 Hello, World! I'm Khaoula Ait Mouddar </h1>
 
-## Passionate game developer, coding enthusiast, and perpetual learner. Welcome to my GitHub profile, where lines of code come to life!
+<h2 align="center"> Passionate game developer, coding enthusiast, and perpetual learner. Welcome to my GitHub profile, where lines of code come to life! </h2>
 
-- 🚀 About Me
+## 🚀 About Me
 - 💻 Game developer with expertise in Unity engine.
 - 🌱 Always exploring new technologies and frameworks.
 - 🎓 Graduated with a degree in Computer Science Engineering from the National Schools of Applied Sciences.
-- 📚 Currently delving deep into XR (Extended Reality) technologies.
+- 📚 Currently delving into XR (Extended Reality) technologies.
 
 ## 📈 GitHub Stats
 
@@ -21,12 +21,17 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khaoula942)
 
 
-
-
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
 
-- 🌟 Thank You for Visiting!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://hnida.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/itch.io-%23000000.svg?&logo=itch.io" alt="khaooula" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaoula" height="30" width="40" /></a>
+<a href="aitmouddarkhaoula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="khaoula" height="30" width="40" /></a>
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:you@example.com)
+
+##🌟 Thank You for Visiting!
 
 ## Happy Coding! 🚀
 
