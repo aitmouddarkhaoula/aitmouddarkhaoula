@@ -2,7 +2,7 @@
 ![](./AitMouddarKhaoula.png)
 
 <h1 align="center"> 👋 Hello, World! I'm Khaoula Ait Mouddar </h1>
-<!--<p align="center">
+<p align="center">
 <a href="https://hnida.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/itch.io-%23000000.svg?&style=for-the-badge&logo=itch.io&logoColor=white" alt="khaooula"  /></a>
 <a href="https://www.linkedin.com/in/khaoula-ait-mouddar-a1b56a213/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="khaoula" /></a>
 <a href="mailto:aitmouddarkhaoula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="khaoula"  /></a>
