@@ -18,8 +18,8 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaoula942&show_icons=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula942&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitmouddarkhaoula&show_icons=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitmouddarkhaoula&layout=compact&theme=dark)
 
 
 
