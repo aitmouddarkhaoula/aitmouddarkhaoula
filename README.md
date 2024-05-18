@@ -18,8 +18,14 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitmouddarkhaoula&show_icons=true&count_private=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitmouddarkhaoula&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitmouddarkhaoula&layout=compact&theme=dark)
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aitmouddarkhaoula.aitmouddarkhaoula)
+[![Sponsor Me](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/aitmouddarkhaoula)
+
+
 
 
 
