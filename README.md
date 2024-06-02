@@ -16,10 +16,14 @@
 - 🎓 Graduated with a degree in Computer Science Engineering from the National Schools of Applied Sciences.
 - 📚 Currently delving into XR (Extended Reality) technologies.
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitmouddarkhaoula&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitmouddarkhaoula&layout=compact&theme=dark)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitmouddarkhaoula&show_icons=true&count_private=true&include_all_commits=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitmouddarkhaoula&layout=compact&theme=dark&hide=c++)
+![trophy](https://github-profile-trophy.vercel.app/?username=aitmouddarkhaoula&theme=onedark)-->
+![trophy](https://github-profile-trophy.vercel.app/?username=aitmouddarkhaoula&theme=onedark&no-frame=true&no-bg=true&column=7&rank=S,AAA,AA,SECRET)
+
+
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aitmouddarkhaoula.aitmouddarkhaoula)
