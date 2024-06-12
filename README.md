@@ -11,7 +11,7 @@
 <!--<h2 align="center"> Passionate game developer, coding enthusiast, and perpetual learner 🤓. Welcome to my GitHub profile, where lines of code come to life! </h2>-->
 
 ## 🚀 About Me 
-- 💻 Game developer with expertise in Unity engine. 
+- 💻 Game developer with expertise in Unity engine.  
 - 🌱 Always exploring new technologies and frameworks. 
 - 🎓 Graduated with a degree in Computer Science Engineering from the National Schools of Applied Sciences.  
 - 📚 Currently delving into XR (Extended Reality) technologies.
