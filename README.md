@@ -30,6 +30,23 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/aitmouddarkhaoula/aitmouddarkhaoula/output/snake.svg" alt="Snake animation" />
   </div>
+  
+
+<p align="center" >
+<!-- Hide untill it is full of juicy stats --> 
+<!--img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" /-->   
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aitmouddarkhaoula&theme=react-dark&color=bf8bff&line=bf8bff&area=false&hide_border=true" -->
+
+</p>
+<br/>
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=aitmouddarkhaoula&theme=material-palenight&hide_title=true&hide_border=true&include_all_commits=true&&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitmouddarkhaoula&execlud=PyGameJam&langs_count=6&layout=compact&hide=html,ShaderLab,hlsl,python&theme=material-palenight&hide_border=true" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aitmouddarkhaoula&theme=material-palenight&hide_border=false&hide_border=true" />
+<br/>
+
+
+</p>-->
 
   
 ## 🏆 GitHub Trophies
