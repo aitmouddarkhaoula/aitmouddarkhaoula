@@ -24,9 +24,9 @@
 - 📚 Currently delving into XR (Extended Reality) technologies. 
 ###
 
-<!-- <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
+ <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 
-  green snake -->
+ <!-- green snake -->
 <div align="center">
  <img src="https://raw.githubusercontent.com/aitmouddarkhaoula/aitmouddarkhaoula/output/snake.svg" alt="Snake animation" />
   </div>
