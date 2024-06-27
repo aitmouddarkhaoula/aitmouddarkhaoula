@@ -12,7 +12,7 @@
   
 <p align="center">
   <h3 align="center">👋 Hello, World! I'm Khaoula Ait Mouddar</h3>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Game+Developer!;Coding+Enthusiast;Perpetual+Learner+🤓&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=bf8bff" alt="Example Usage - README Typing SVG">
