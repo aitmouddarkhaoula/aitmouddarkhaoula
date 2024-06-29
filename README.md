@@ -8,7 +8,15 @@
 <a href="mailto:aitmouddarkhaoula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=bf8bff&color=white" alt="khaoula"  /></a>
 <a href="https://aitmouddarkhaoula.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=bf8bff&color=white" /></a>
 </p>
+<!--   my-icons 
+<div align="center">
+<p align="center">-->
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=aitmouddarkhaoula.aitmouddarkhaoula" alt="visitor badge"/>-->
  
+<!--![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aitmouddarkhaoula.aitmouddarkhaoula)
+[![Sponsor Me](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/aitmouddarkhaoula)
+</p>
+</div> -->
   
 <p align="center">
   <h3 align="center">👋 Hello, World! I'm Khaoula Ait Mouddar</h3>
@@ -95,6 +103,11 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=aitmouddarkhaoula&theme=onedark&no-frame=true&no-bg=true&column=7&rank=S,AAA,AA,SECRET)
 
 
+![](https://count.getloli.com/get/@aitmouddarkhaoula.github.readme?theme=rule34)
+<div align="center">
+    <a href="https://www.buymeacoffee.com/hnida" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="60px" width="217px" >
+    </a>
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aitmouddarkhaoula.aitmouddarkhaoula)
