@@ -103,10 +103,10 @@
 
 
 ![](https://count.getloli.com/get/@aitmouddarkhaoula.github.readme?theme=rule34)
-<div align="center">
+<!--<div align="center">
     <a href="https://www.buymeacoffee.com/hnida" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="60px" width="217px" >
-    </a>
+    </a>-->
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aitmouddarkhaoula.aitmouddarkhaoula)
