@@ -8,7 +8,7 @@
 <a href="https://aitmouddarkhaoula.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=bf8bff&color=white" /></a>
 </p>  
 <!--   my-icons  
-<div align="center">
+<div align="center"> 
 <p align="center">-->
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=aitmouddarkhaoula.aitmouddarkhaoula" alt="visitor badge"/>-->
  
